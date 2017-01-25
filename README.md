@@ -1,5 +1,5 @@
 # docker-octave
-Docker configuration for [Digdag](https://www.digdag.io/)
+Docker configuration for [GNU Octave](https://www.gnu.org/software/octave/)
 
 ## Usage
 
