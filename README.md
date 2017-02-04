@@ -15,7 +15,8 @@ Assuming the following:
 
 * macOS Sierra (Version 10.12.3)
 * Docker for Mac (v1.13.0 stable)
-* XQuartz 2.7.11
+* [XQuartz](https://www.xquartz.org/) 2.7.11
+    * Check `Allow connections from network clients` ![Allow connections from network clients](./screenshot.png)    
 
 ```bash
 $ open -a XQuartz
